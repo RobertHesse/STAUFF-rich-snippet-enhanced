@@ -1,0 +1,171 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "sku": "TS-11-1m-W98",
+    "mpn": "1130004075",
+    "brand": {
+        "@type": "Brand",
+        "name": "STAUFF"
+    },
+    "name": "TS-11-1m-W98",
+    "description": "Mounting Rail - 1000mm Long\nStandard Series\nGr. 1-8, Gr. 1D-5D\nCarbon St., hot-dip galvanised\nDIN 3015",
+    "image": [
+        "https://cdn-assets.stauff.com/images/stauff_clamps/l/Mounting_Rail_TS.jpg"
+    ],
+    "offers": {
+        "@type": "Offer",
+        "price": 10.17,
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "shippingDetails": [
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Alberta"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "British Columbia"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Manitoba"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "New Brunswick"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Newfoundland and Labrador"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Northwest Territories"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Nova Scotia"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "125",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Ontario"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Prince Edward Island"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "125",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Québec"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Saskatchewan"
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "130",
+                    "currency": "CAD"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "name": "Yukon"
+                }
+            }
+        ],
+        "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "returnPolicyCategory": "https://schema.org/NoReturnsAccepted"
+        }
+    }
+}

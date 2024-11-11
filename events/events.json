@@ -1,0 +1,29 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Event",
+    "name": "Maintenance Dortmund",
+    "image": "https://assets.stauff.com/binaries/threetotwo/content/gallery/de/42-events/messelogos/2023/folie2.png",
+    "description": "Regionale Fachmesse für industrielle Instandhaltung",
+    "startDate": "2023-05-24",
+    "endDate": "2023-05-25",
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "location": {
+        "@type": "Place",
+        "name": "Messe Dortmund",
+        "address": "Halle 4 und 5\nRheinlanddamm 200\n44139 Dortmund\nDeutschland"
+    },
+    "offers": {
+        "@type": "Offer",
+        "description": "Please contact the event venue or check the event website for ticket information."
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "STAUFF",
+        "url": "https://stauff.com"
+    },
+    "performer": {
+        "@type": "Organization",
+        "name": "STAUFF"
+    }
+}
