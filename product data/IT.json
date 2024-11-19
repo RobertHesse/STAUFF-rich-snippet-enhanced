@@ -17,44 +17,6 @@
         "price": 10.17,
         "priceCurrency": "EUR",
         "availability": "https://schema.org/InStock",
-        "shippingDetails": [
-            {
-                "@type": "OfferShippingDetails",
-                "shippingRate": {
-                    "@type": "MonetaryAmount",
-                    "value": "25.00",
-                    "currency": "EUR"
-                },
-                "shippingDestination": {
-                    "@type": "DefinedRegion",
-                    "name": "Italy"
-                }
-            },
-            {
-                "@type": "OfferShippingDetails",
-                "shippingRate": {
-                    "@type": "MonetaryAmount",
-                    "value": "70.00",
-                    "currency": "EUR"
-                },
-                "shippingDestination": {
-                    "@type": "DefinedRegion",
-                    "name": "Malta"
-                }
-            },
-            {
-                "@type": "OfferShippingDetails",
-                "shippingRate": {
-                    "@type": "MonetaryAmount",
-                    "value": "70.00",
-                    "currency": "EUR"
-                },
-                "shippingDestination": {
-                    "@type": "DefinedRegion",
-                    "name": "Romania"
-                }
-            }
-        ],
         "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "returnPolicyCategory": "https://schema.org/NoReturnsAccepted"

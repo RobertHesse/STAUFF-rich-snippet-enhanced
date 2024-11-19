@@ -17,34 +17,6 @@
         "price": 10.17,
         "priceCurrency": "EUR",
         "availability": "https://schema.org/InStock",
-        "shippingDetails": [
-            {
-                "@type": "OfferShippingDetails",
-                "shippingRate": {
-                    "@type": "MonetaryAmount",
-                    "value": "15.00",
-                    "currency": "GBP"
-                },
-                "shippingDestination": {
-                    "@type": "DefinedRegion",
-                    "name": "United Kingdom"
-                },
-                "shippingMethod": "TNT Noon"
-            },
-            {
-                "@type": "OfferShippingDetails",
-                "shippingRate": {
-                    "@type": "MonetaryAmount",
-                    "value": "45.00",
-                    "currency": "GBP"
-                },
-                "shippingDestination": {
-                    "@type": "DefinedRegion",
-                    "name": "United Kingdom"
-                },
-                "shippingMethod": "TNT Sat. AM"
-            }
-        ],
         "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "returnPolicyCategory": "https://schema.org/NoReturnsAccepted"
